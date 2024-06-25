@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color:#F8E8A6;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 24px;
+}
+a{
+    color:green;
+    font-size: 19px;
+    margin:8px;
+   
+}
+.links{
+    margin: 30px;
+}
+img{
+    width: 1050px;
+    border-radius: 8px;
+}
+.contact-link{
+    color:blue;
+}
